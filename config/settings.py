@@ -159,6 +159,6 @@ EMAIL_HOST_USER = "examtrialemail@gmail.com"
 EMAIL_HOST_PASSWORD = "lvle dtdi vylm unat"
 
 
-CELERY_BROKER_URL = 'redis://localhost:6379'  # Use Redis as the broker
+CELERY_BROKER_URL = 'redis://localhost:6379/0'  # Use Redis as the broker
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
