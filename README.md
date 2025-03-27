@@ -1,4 +1,5 @@
 Solo Leveling Training System 💪🔥
+
 An AI-powered training system inspired by Solo Leveling, designed to help users push their limits with daily challenges, punishments for laziness, and emergency tasks to test courage and strength.
 
 Features
